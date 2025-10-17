@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-
+// from Verlesung 2 folie
 public class ColoredPoints extends JPanel {
 
     public ColoredPoints() {
